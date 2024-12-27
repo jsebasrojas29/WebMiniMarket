@@ -265,7 +265,7 @@
                 <MapPinIcon class="h-6 w-6 text-gray-400" />
               </div>
               <div class="ml-3 text-base text-gray-500">
-                <p>calle 14A-11</p>
+                <p>Carrera 4A 14A-75</p>
                 <p class="mt-1">Barrio el porvenir</p>
               </div>
             </div>
