@@ -325,8 +325,8 @@ import {
   TwitterIcon,
 } from "lucide-vue-next";
 import FondoImage from "../assets/fondo.jpeg";
-import Fotocerveza from "../src/assets/cafe.png";
-import FotoCafe from "../assets/fondo.jpeg";
+import Fotocerveza from "../assets/cerveza.jpeg";
+import FotoCafe from "../assets/cafe.png";
 import FotoConfiteria from "../assets/confiteria.png";
 
 const news = ref([
