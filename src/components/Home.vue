@@ -325,6 +325,9 @@ import {
   TwitterIcon,
 } from "lucide-vue-next";
 import FondoImage from "../assets/fondo.jpeg";
+import Fotocerveza from "../src/assets/cafe.png";
+import FotoCafe from "../assets/fondo.jpeg";
+import FotoConfiteria from "../assets/confiteria.png";
 
 const news = ref([
   {
@@ -371,19 +374,19 @@ const menuHighlights = ref([
     name: "Cafe artezanal",
     description: "cafe de alta calidad",
     price: "$4.500.00",
-    imageSrc: "../src/assets/cafe.png",
+    imageSrc: FotoCafe,
   },
   {
     name: "Cervezas nacionales",
     description: "Cerveza en lata de todo tipo",
     price: "$4.000.00 +",
-    imageSrc: "../src/assets/cerveza.jpeg",
+    imageSrc: Fotocerveza,
   },
   {
     name: "Confiteria",
     description: "dulces y chucherias",
     price: "$2.000.00 +",
-    imageSrc: "../src/assets/cerveza.jpeg",
+    imageSrc: FotoConfiteria,
   },
 ]);
 
